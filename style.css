@@ -158,7 +158,15 @@ footer p {
   }
 }
 
+.logo-container{
+  border-radius: 50px;
+}
 
+img {
+  width: 250px;   /* Adjust the width */
+  height: 250px;  /* Adjust the height */
+  border-radius: 60%; /* Creates a circle */
+}
   
   .logo-container{
    
